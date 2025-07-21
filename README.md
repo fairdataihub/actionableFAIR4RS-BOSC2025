@@ -19,7 +19,7 @@ The Research Software Alliance (ReSA) has established a Task Force dedicated to 
 
 | Type            | Date & Time             | Authors                          | Session / Location                                              | Details |
 | --------------- | -----------------|--------------------------------- |------------------------------------------------------ |------------------- |
-| Short talk      |  Monda, July 21, 2025, at 12:40 pm BST | Bhavesh Patel (presenter) et al.| Session 1b | [BOSC 2025 schedule](https://www.open-bio.org/events/bosc-2025/bosc-2025-schedule/) |
+| Short talk      |  Monday, July 21, 2025, at 12:40 pm BST | Bhavesh Patel (presenter) et al.| Session 1b | [BOSC 2025 schedule](https://www.open-bio.org/events/bosc-2025/bosc-2025-schedule/) |
 
 
 ## Meeting material
